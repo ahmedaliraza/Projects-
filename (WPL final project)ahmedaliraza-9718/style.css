@@ -1,0 +1,84 @@
+body{
+font-size: 19px;
+
+}
+table{ 
+	width: 100%;
+	margin: 30px auto;
+	border: 10px  solid;
+	text-align: left;
+
+}
+td,th{
+border:none;
+height: 30px;
+padding: 2px;
+}
+tr:hover{
+	background: #499
+}
+form{
+width:70% ;
+margin:50px auto ;
+text-align:left ;
+padding:100px ;
+border:1px solid #bbbbbb ;
+border-radius:5px ;	
+}
+.input-group{
+margin: 10px 0px 10px 0px 10px 0px 10px 0px;
+}
+.input-group label{
+display: block;
+text-align: left;
+margin: 3px;
+}
+
+.input-group input{
+height:30px ;
+width:93% ;
+padding:5px 10px ;
+font-size:16px ;
+border-radius:5px ;
+border:1px solid grey ;
+}
+
+.btn{
+	padding:10px ;
+	font-size:15px ;
+	color: white;
+	background:#559EA0 ;
+	border:none ;
+	border-radius:5px ;
+}
+.msg{
+	margin: 30px auto;
+	padding: 10px;
+	border-radius: 5px;
+	color: #3c763d;
+	background:#dff0d8;
+	border: 1px solid #3c763d;
+    width: 50%; 
+    text-align: center;
+}
+header{
+    border: solid 10px #c3c3c3;
+	background: darkgrey;
+}
+.navigation{
+ background:lightgrey;
+ }
+.navigation li{
+	padding: 55px 35px; 
+	font-size: 20px;
+	list-style: none;
+}
+.navigation li a{
+	text-transform: uppercase; 	
+	color:black;
+	border: double;
+background-color:lightblue ;
+}
+.logo{
+width:275px;
+	}

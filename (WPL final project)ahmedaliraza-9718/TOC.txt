@@ -1,0 +1,230 @@
+<div><a>TOC</a>
+Acute granulocytic leukemia (see Leukemia)
+Acute lymphocytic leukemia (ALL) (see Leukemia)
+Acute myelogenous leukemia (AML) (see Leukemia)
+Adenocarcinoma (see Lung cancer)
+Adenosarcoma (see Lung cancer)
+Adrenal cancer
+Adrenocortical carcinoma (see Adrenal cancer)
+Anal cancer
+Anaplastic astrocytoma (see Brain cancer)
+Angiosarcoma (see Soft tissue sarcoma)
+Appendix cancer
+Astrocytoma (see Brain cancer)
+
+B
+Basal cell carcinoma (see Skin cancer)
+B-Cell lymphoma (see Non-Hodgkin lymphoma)
+Bile duct cancer
+Bladder cancer
+Bone cancer
+Bone marrow cancer (see Multiple myeloma)
+Bowel cancer (see Colorectal cancer)
+Brain cancer
+Brain stem glioma (see Brain cancer)
+Brain tumor (see Brain cancer)
+Breast cancer
+
+C
+Carcinoid tumors (see Stomach cancer)
+Cervical cancer
+Cholangiocarcinoma (see Bile duct cancer)
+Chondrosarcoma (see Bone cancer)
+Chronic lymphocytic leukemia (CLL) (see Leukemia)
+Chronic myelogenous leukemia (CML) (see Leukemia)
+Colon cancer (see Colorectal cancer)
+Colorectal cancer
+Craniopharyngioma (see Brain cancer)
+Cutaneous lymphoma (see Skin cancer)
+Cutaneous melanoma (see Melanoma)
+
+D
+Diffuse astrocytoma (see Brain cancer)
+Ductal carcinoma in situ (DCIS) (see Breast cancer)
+
+E
+Endometrial cancer (see Uterine cancer)
+Ependymoma (see Brain cancer)
+Epithelioid sarcoma (see Soft tissue sarcoma)
+Esophageal cancer
+Ewing sarcoma (see Bone cancer)
+Extrahepatic bile duct cancer (see Bile duct cancer)
+Eye cancer
+
+F
+Fallopian tube cancer (see Ovarian cancer)
+Fibrosarcoma (see Soft tissue sarcoma)
+
+G
+Gallbladder cancer
+Gastric cancer (see Stomach cancer)
+Gastrointestinal cancer
+Gastrointestinal carcinoid cancer
+Gastrointestinal stromal tumors (GIST)
+General
+Germ cell tumor (see Brain cancer)
+Gestational Trophoblastic Disease (GTD)
+Glioblastoma multiforme (GBM) (see Brain cancer)
+Glioma (see Brain cancer)
+
+H
+Hairy cell leukemia (see Leukemia)
+Head and neck cancer
+Hemangioendothelioma
+Hodgkin lymphoma
+Hodgkin lymphoma (see Hodgkin lymphoma )
+Hodgkin's disease (see Hodgkin lymphoma )
+Hypopharyngeal cancer (see Throat cancer)
+
+I
+Infiltrating ductal carcinoma (IDC) (see Breast cancer)
+Infiltrating lobular carcinoma (ILC) (see Breast cancer)
+Inflammatory breast cancer (IBC) (see Breast cancer)
+Intestinal Cancer
+Intrahepatic bile duct cancer (see Bile duct cancer)
+Invasive / infiltrating breast cancer (see Breast cancer)
+Islet cell cancer (see Pancreatic cancer)
+
+J
+Jaw cancer (see Oral cancer)
+
+K
+Kaposi sarcoma (see Oral cancer)
+Kidney cancer
+
+L
+Laryngeal cancer (see Throat cancer)
+Leiomyosarcoma (see Soft tissue sarcoma)
+Leptomeningeal metastases
+Leukemia
+Lip cancer (see Oral cancer)
+Liposarcoma (see Soft tissue sarcoma)
+Liver cancer
+Lobular carcinoma in situ (see Breast cancer)
+Low-grade astrocytoma (see Brain cancer)
+Lung cancer
+Lymph node cancer (see Non-Hodgkin lymphoma)
+Lymphoma (see Non-Hodgkin lymphoma)
+
+M
+Male breast cancer (see Breast cancer)
+Medullary carcinoma (see Breast cancer)
+Medulloblastoma (see Brain cancer)
+Melanoma
+Meningioma (see Brain cancer)
+Merkel cell carcinoma (see Skin cancer)
+Mesenchymal chondrosarcoma (see Bone cancer)
+Mesenchymous
+Mesothelioma
+Metastatic breast cancer (see Breast cancer)
+Metastatic melanoma (see Melanoma)
+Metastatic squamous neck cancer
+Mixed gliomas (see Brain cancer)
+Mouth cancer (see Oral cancer)
+Mucinous carcinoma (see Breast cancer)
+Mucosal melanoma (see Oral cancer)
+Multiple myeloma
+Mycosis Fungoides (see Non-Hodgkin lymphoma)
+Myelodysplastic Syndrome (see Leukemia)
+
+N
+Nasal cavity cancer (see Throat cancer)
+Nasopharyngeal cancer (see Throat cancer)
+Neck cancer (see Head and neck cancer)
+Neuroblastoma
+Neuroendocrine tumors (NETs)
+Non-Hodgkin lymphoma
+Non-Hodgkin's lymphoma (see Non-Hodgkin lymphoma)
+Non-small cell lung cancer (NSCLC) (see Lung cancer)
+
+O
+Oat cell cancer (see Lung cancer)
+Ocular cancer
+Ocular melanoma
+Oligodendroglioma (see Brain cancer)
+Oral cancer
+Oral cavity cancer (see Oral cancer)
+Oropharyngeal cancer (see Throat cancer)
+Osteogenic sarcoma (see Bone cancer)
+Osteosarcoma (see Bone cancer)
+Ovarian cancer
+Ovarian epithelial cancer (see Ovarian cancer)
+Ovarian germ cell tumor (see Ovarian cancer)
+Ovarian primary peritoneal carcinoma (see Ovarian cancer)
+Ovarian sex cord stromal tumor (see Ovarian cancer)
+
+P
+Paget's disease (see Breast cancer)
+Pancreatic cancer
+Papillary carcinoma (see Breast cancer)
+Paranasal sinus cancer
+Parathyroid cancer (see Thyroid cancer)
+Pelvic cancer
+Penile cancer
+Peripheral nerve cancer (see Brain cancer)
+Peritoneal cancer (see Ovarian cancer)
+Pharyngeal cancer (see Throat cancer)
+Pheochromocytoma (see Adrenal cancer)
+Pilocytic astrocytoma (see Brain cancer)
+Pineal region tumor (see Brain cancer)
+Pineoblastoma
+Pituitary tumors (see Brain cancer)
+Primary central nervous system (CNS) lymphoma
+Prostate cancer
+
+
+R
+Rectal cancer (see Colorectal cancer)
+Renal cell carcinoma (see Kidney cancer)
+Renal pelvis cancer (see Kidney cancer)
+Rhabdomyosarcoma (see Soft tissue sarcoma)
+
+
+S
+Salivary gland cancer (see Oral cancer)
+Sarcoma (see Soft tissue sarcoma)
+Sarcoma, bone (see Bone cancer)
+Sarcoma, soft tissue
+Sarcoma, uterine (see Uterine cancer)
+Sinus cancer
+Skin cancer
+Small cell lung cancer (SCLC) (see Lung cancer)
+Small intestine cancer
+Soft tissue sarcoma
+Spinal cancer
+Spinal column cancer (see Spinal cancer)
+Spinal cord cancer (see Spinal cancer)
+Spinal tumor (see Spinal cancer)
+Squamous cell carcinoma (see Skin cancer)
+Stomach cancer
+Synovial sarcoma (see Soft tissue sarcoma)
+
+
+T
+T-cell lymphoma (see Non-Hodgkin lymphoma)
+Testicular cancer
+Throat cancer
+Thymoma / thymic carcinoma
+Thyroid cancer
+Tongue cancer (see Oral cancer)
+Tonsil cancer (see Head and neck cancer)
+Transitional cell cancer (see Bladder cancer)
+Transitional cell cancer (see Kidney cancer)
+Transitional cell cancer (see Ovarian cancer)
+Triple-negative breast cancer (see Breast cancer)
+Tubal cancer
+Tubular carcinoma (see Breast cancer)
+
+
+U
+Undiagnosed Cancer
+Ureteral cancer (see Bladder cancer)
+Ureteral cancer (see Kidney cancer)
+Urethral cancer
+Uterine adenocarcinoma (see Uterine cancer)
+Uterine cancer
+Uterine sarcoma (see Uterine cancer)
+
+V
+Vaginal cancer
+Vulvar cancer

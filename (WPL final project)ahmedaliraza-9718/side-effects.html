@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>C#@P-PAK(SIDE-EFFECTS)</title>
+<meta charset="utf-8">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>
+
+$(document).ready(function(){
+    $("#flip").click(function(){
+        $("#panel2").slideToggle("slow");
+
+        
+    });
+});
+
+</script>
+<style>
+#flip, #panel{
+    padding: 5px;
+    text-align:center;
+    background-color: #e5eecc;
+    border: solid 10px #c3c3c3;
+}
+
+#panel{
+    padding: 50px;
+    display:none;
+}
+body{
+	margin:0; 
+	padding: 0;
+	background:#ccc; 
+}
+
+li{
+	list-style: ;
+}
+header{
+    border: solid 10px #c3c3c3;
+	background:#FF1493;
+}
+.navigation{
+ background:lightpink;
+ }
+.navigation li{
+	padding: 55px 35px; 
+	font-size: 15px;
+	list-style: none;
+}
+.navigation li a{
+	color:black;
+border-style: solid dotted;
+background-color:#C0C0C0 ;
+}
+.logo{
+width:275px;
+	}
+.banner img{
+	width:100%;
+
+}
+.banner{
+	overflow: hidden;
+	height: 300px;
+}
+footer{
+  list-style:none;
+	line-height:10px;
+	color: white;
+	font-size: 20px;
+	background:#FF1493;
+}
+footer li a{
+
+color: black;
+}
+
+</style> 
+</head>
+<body>
+<header>
+	<div class="container">
+		<div class="row">
+			<div class="logo col-md-3">
+				<img src="CHP.jpg" width="150" height="150" align="left">
+			</div>
+			<div class="nav navbar col-md-9">
+				<nav align="center">
+					<ul class="navbar-nav navigation  pull-right">
+						<li><a href="cyberknife.html"><b>CYBER-KNIFE(side-effects)</b></a></li>
+						<li><a href="radiation(side-effects).html"><b>RADIATION(side-effects)</b></a></li>
+						<li><a href="chemo(side-effects).html"><b>CHEMO(side-effects)</b></a></li>
+						
+				
+					</ul>
+
+				</nav>
+			</div>
+      </header>
+			
+<hr>
+
+<div id="flip" class="row col-md-12 banner" style="display: ruby-base; align-content: center;>
+
+<img class="mySlides" src="https://c.tribune.com.pk/2011/06/Institutue-of-Medical-science-PHOTO-FILE-189544-191243-640x480.jpg" width="1350px" height="500px">
+<img class="mySlides" src="form.jpg" width="1350px" height="500px">
+<img class="mySlides" src="https://www.centralpacancercare.com/images/cancer-side-effects-small.jpg" width="1350px" height="500px">
+
+
+<img class="mySlides" src="https://www.physio-pedia.com/images/thumb/c/cc/Radiation_Therapy_Side_Effects_During_Cancer_Treatment_L.jpg/764px-Radiation_Therapy_Side_Effects_During_Cancer_Treatment_L.jpg" width="1350px" height="500px">
+
+<img class="mySlides" src="https://static1.squarespace.com/static/53cdaed9e4b0e7d8eb4203e1/55fb2e49e4b023875d36c0e8/57e1589891b18609b1b60c41/1474386077656/" width="1350px" height="500px" >
+
+<img class="mySlides" src="https://3.bp.blogspot.com/-59fWKn8KZP8/Wfo14FUdzXI/AAAAAAAAFfI/ss7l-e0rVR4xnBr-d0_S-i6gcd5iD5C1wCLcBGAs/s1600/eat%2Bwell%2Bduring%2Bcancer.jpg" width="1350px" height="500px" >
+
+</div>
+			</div>
+		</div>
+	</div>
+
+<hr/>
+	<footer>
+		<nav>
+
+	<div class="text-center"> 
+		<ul class="text-left">
+<img src="CHP.jpg" width="100" height="100" align="right">
+<li><a href="Home.html"> Home</a></li><br>
+<li><a href="About.html"> About</a></li><br>
+<li><a href="Home.html"> Cancers Treatment</a></li><br>
+<li><a href="radiation(side-effects).html" href="chemo(side-effects).html" href="cyberknife.html"> Side-Effects</a></li><br>
+<li><a href="index.php" style="border: dashed;color:gold">Share your Experience</a><br></li>
+
+</ul>
+
+
+<hr>
+@Copyright 2018.
+  -All Rights Reserved by C#@P-PAK.. 
+</nav>
+</div>
+
+</footer>
+</body>
+</html>
+<script>
+
+	var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
